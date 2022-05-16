@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🏢 Computer science student at Slovak Technical University
+- ☕️ Java primary interest
+- 📫 How to reach me: mkolenicml@gmail.com
+
+### 📌 Contact me to view more repositories
+
 <!--
 **mariokolenic/mariokolenic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
