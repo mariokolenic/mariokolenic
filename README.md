@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🏢 Computer science student at Slovak Technical University
-- ☕️ Java primary interest
-- 📫 How to reach me: mkolenicml@gmail.com
+- 🎓 Master’s degree in Computer Science, Slovak University of Technology (2025)  
+- ☕️ Primary interest: Java  
+- 📫 How to reach me: mkolenicml@gmail.com  
 
 ### 📌 Contact me to view more repositories
 
